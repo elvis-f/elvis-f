@@ -1,6 +1,7 @@
 ### Hi, I'm Elvis! 👋
 
 🔭 I'm a full-stack developer with countless interests and projects!
+
 ⚡ My favourite languages include Typescript, C# and Rust!
 
 🌱 Currently learning .NET and systems programming! (Rust, C++)
