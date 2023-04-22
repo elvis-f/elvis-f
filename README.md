@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Elvis! 👋
+
+🔭 I'm a full-stack developer with countless interests and projects!
+⚡ My favourite languages include Typescript, C# and Rust!
+
+🌱 Currently learning .NET and systems programming! (Rust, C++)
+
+📫 Links:
+- LinkedIn - https://www.linkedin.com/in/elvisfrisfelds/
+- Discord - xtcy#6938
 
 <!--
 **elvis-f/elvis-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
