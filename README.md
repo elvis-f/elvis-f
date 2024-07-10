@@ -4,7 +4,7 @@
 
 ⚡ My favourite languages include Typescript, C# and Rust!
 
-🌱 Currently learning .NET and systems programming! (Rust, C++)
+🌱 Currently learning Linux programming and Game dev! (Rust, C++)
 
 📫 Links:
 - LinkedIn - https://www.linkedin.com/in/elvisfrisfelds/
