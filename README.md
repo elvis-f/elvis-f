@@ -1,20 +1,12 @@
-### Hi, I'm Elvis! 👋
+### Hi, I'm Elvis!
 
-🔭 I'm a full-stack developer with countless interests and projects!
+Coding is fun. 
 
-⚡ My favourite languages include Typescript, C# and Rust!
-
-🌱 Currently learning Linux programming and Game dev! (Rust, C++)
-
-🏭 Current projects:
+Current projects:
 - OnTopOfTheSky: A beautiful watchface for the Pebble smartwatch written in C
-- Game Engine: I'm now writing a game engine in Bevy using Rust!
-- Flash: An open-source flashcard app that will let you practice whatever without limits and share it with others!
-- BanknoteScraper: A telegram bot that keeps an eye on the veikals.banknote.lv online shop and notifies users when an item matches their query 
 
-📫 Links:
+Links:
 - LinkedIn - https://www.linkedin.com/in/elvisfrisfelds/
-- Discord - xtcy#6938
 
 <!--
 **elvis-f/elvis-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
